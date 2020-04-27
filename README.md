@@ -16,14 +16,14 @@ The objective of the competition was, on it's page,
 The evaluation criterion was the Root Mean Squared Error(RMSE).
 
 
-### Prerequisites
+## Prerequisites
 
   - **train.csv** for training and validating the models 
   - **test.csv** for testing and submitting the solutions
   - [Optional]**sample_submission.csv** for writing the output
 
 
-#### Installation of required libraries
+### Installation of required libraries
 
 Apart from the usual scikit-learn library, this implementation also requires [MLXtend](http://rasbt.github.io/mlxtend/),  [XGBoost](https://xgboost.readthedocs.io/en/latest/) and [LightGBM](https://lightgbm.readthedocs.io/en/latest/) to run.
 
