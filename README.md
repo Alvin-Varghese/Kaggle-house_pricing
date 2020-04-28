@@ -4,6 +4,7 @@ This is a beginner's revised attempt at improving the score (and ranking) for th
 This a jupyter notebook implementation and the commands for installing libraries are for an Anaconda-based installation.
 
 My earlier stats were:
+
 | Score | Rank | Method |
 | ------ | ------ | ----|
 | 21248.846 | 21113 | RandomForest |
