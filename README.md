@@ -1,6 +1,6 @@
 # Kaggle's Housing Price Prediction
 
-This is a beginner's revised attempt at improving the score (and ranking) for the Kaggle. Check out the competition [here](https://www.kaggle.com/c/home-data-for-ml-course).
+This is the result of my attempt at improving the score (and ranking) for the Kaggle competition. Check out the competition [here](https://www.kaggle.com/c/home-data-for-ml-course).
 This a jupyter notebook implementation and the commands for installing libraries are for an Anaconda-based installation.
 
 My earlier stats were:
@@ -39,7 +39,7 @@ $ conda install -c conda-forge xgboost
 $ conda install -c conda-forge lightgbm
 ```
 
-You can run the notebook now and while I have tried to add comments wherever possible and kept the code in segments for esier understanding, I'll be updating this ReadMe or the notebook itself for more explanations.
+You can fork the repository and work on your models; and while I have tried to add comments wherever possible and kept the code in segments for esier understanding, this is still far from being a instructive project. I'll be updating this ReadMe or the notebook itself for more explanations.
 
 License
 ------
