@@ -15,6 +15,9 @@ The objective of the competition was, on it's page,
 
 The evaluation criterion was the Root Mean Squared Error(RMSE).
 
+![image](https://user-images.githubusercontent.com/58383734/80511887-57d88d00-899a-11ea-9240-1656a9b491e2.png)
+
+
 
 ## Prerequisites
 
